@@ -15,7 +15,7 @@ module.exports = {
 				},
 			},
 			fontFamily: {
-				...baseConfig.theme.extend.fontFamily
+				'sans': ['Hyundai', ...defaultTheme.fontFamily.sans],
 			},
 		},
 	},
