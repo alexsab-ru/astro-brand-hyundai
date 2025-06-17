@@ -1,5 +1,5 @@
 @use "mixins";
 
-@include mixins.font("Hyundai", normal, 300, "https://cdn.alexsab.ru/b/hyundai/fonts/HyundaiSansHead-Light.woff");
-@include mixins.font("Hyundai", normal, 400, "https://cdn.alexsab.ru/b/hyundai/fonts/HyundaiSansHead-Regular.woff2");
-@include mixins.font("Hyundai", normal, 500, "https://cdn.alexsab.ru/b/hyundai/fonts/HyundaiSansHead-Medium.woff2");
+@include mixins.font("Hyundai", normal, 300, "https://cdn.alexsab.ru/b/hyundai/fonts/hyundaisanshead-light.woff2");
+@include mixins.font("Hyundai", normal, 400, "https://cdn.alexsab.ru/b/hyundai/fonts/hyundaisanshead-regular.woff2");
+@include mixins.font("Hyundai", normal, 500, "https://cdn.alexsab.ru/b/hyundai/fonts/hyundaisanshead-medium.woff2");
